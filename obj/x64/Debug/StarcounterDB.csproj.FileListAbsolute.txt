@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\bin\Debug\StarcounterDB.exe
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\bin\Debug\StarcounterDB.pdb
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\bin\Debug\Starcounter.dll
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\bin\Debug\Starcounter.Internal.dll
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\bin\Debug\Starcounter.XSON.dll
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\bin\Debug\Starcounter.Logging.dll
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\obj\x64\Debug\StarcounterDB.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\obj\x64\Debug\StarcounterDB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\obj\x64\Debug\StarcounterDB.csproj.CopyComplete
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\obj\x64\Debug\StarcounterDB.exe
+C:\Users\user\source\repos\StarcounterDB\StarcounterDB\obj\x64\Debug\StarcounterDB.pdb
